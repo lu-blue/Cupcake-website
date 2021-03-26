@@ -1,0 +1,12 @@
+.about-item {
+    margin-bottom: var(--space-medium);
+    padding: var(--space-small);
+    background-color: var(--color-light-grey);
+  }
+
+  .about-item p {
+    font-size: 26px;
+    margin-bottom: var(--space-medium);
+    color: #553914;
+    font-family: 'Poiret One', cursive;
+  }

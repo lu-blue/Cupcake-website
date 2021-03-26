@@ -1,0 +1,19 @@
+.navigation-menu {
+    text-align: center;
+    margin-bottom: var(--space-big);
+    font-size: 23px;
+    font-family: "Dancing Script", sans-serif;
+}
+
+.navigation-menu a {
+    color: #553914;
+    padding: var(--space-small);
+}
+
+.navigation-menu a:hover {
+    background-color: #26ab95;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 50%;
+    border: solid 2px;
+}

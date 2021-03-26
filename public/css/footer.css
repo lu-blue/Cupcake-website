@@ -1,0 +1,19 @@
+
+.footer-icons {
+    text-align: center;
+    margin-bottom: var(--space-small);
+    font-size: 40px;
+}
+
+.footer-icons a {
+    color: #553914;
+    padding: var(--space-smaller);
+}
+
+.footer-icons a:hover {
+    background-color: #26ab95;
+    color: white;
+    box-sizing:border-box;
+    border-radius: 20%;
+    border: solid 2px;
+}
