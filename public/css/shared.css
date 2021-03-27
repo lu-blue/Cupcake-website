@@ -20,6 +20,7 @@ h1 {
     margin-bottom: 0;
     font-family: 'Poiret One', cursive;
     color: #26ab95;
+    text-align: center;
 }
 
 h2 {
@@ -44,8 +45,7 @@ p {
 hr {
     border-bottom-color: #26ab95
     margin-bottom: var(--space-medium);
-    border-style: dashed;
-    
+    border-style: dashed;  
 }
 
 img {
