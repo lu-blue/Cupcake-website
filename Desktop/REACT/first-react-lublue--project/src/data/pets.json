@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "title": "Puppy",
+      "fileName": "dog.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Whiskers",
+      "fileName": "cat.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Birdie",
+      "fileName": "cat-food.jpg"
+    }
+]
